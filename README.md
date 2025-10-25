@@ -102,7 +102,7 @@ display(df)
 
 
 📸 Capture d’écran :  
-![Fichiers CSV téléchargés](./images/6.png)
+![Fichiers CSV téléchargés](./images/7.png)
 
 2. Le résultat affiche les données du fichier 2019.csv, affichées en colonnes et en lignes. Notez que les en-têtes de colonnes contiennent la première ligne de données. Pour corriger ce problème, modifiez la première ligne du code comme suit :
 ```python
@@ -135,7 +135,7 @@ display(df)
 5. Exécutez la cellule et examinez le résultat :
 
 📸 Capture d’écran :  
-![Fichiers CSV téléchargés](./images/7.png)
+![Fichiers CSV téléchargés](./images/8.png)
 
 6. Ce DataFrame inclut uniquement les données du fichier 2019.csv. Modifiez le code afin que le chemin d'accès au fichier utilise le caractère générique * pour lire tous les fichiers du dossier des commandes :
 ```python
@@ -234,7 +234,7 @@ Le nombre de lignes dans chaque groupe est calculé avant que la méthode orderB
 
 
 📸 Capture d’écran :  
-![Fichiers CSV téléchargés](./images/8.png)
+![Fichiers CSV téléchargés](./images/9.png)
 
 
 
@@ -295,7 +295,7 @@ display(orders_df)
 ```
 
 📸 Capture d’écran :  
-![Fichiers CSV téléchargés](./images/9.png)
+![Fichiers CSV téléchargés](./images/10.png)
 
 
 
